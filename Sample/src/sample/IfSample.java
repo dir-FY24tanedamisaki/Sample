@@ -1,6 +1,5 @@
 package sample;
 
-import org.w3c.dom.css.ElementCSSInlineStyle;
 
 public class IfSample {
 

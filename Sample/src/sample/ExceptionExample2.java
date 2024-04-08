@@ -1,6 +1,5 @@
 package sample;
 
-import javax.swing.plaf.basic.BasicSplitPaneDivider;
 
 public class ExceptionExample2 {
 
